@@ -5,10 +5,10 @@ Essa vaga é referente ao cargo de Desenvolvedor Fronted Junior, aonde você est
 
 O único que é realmente obrigatório é o Nível 1, mas claro que, se tiver capacidade de fazer um dos outros níveis obterá mais chances de conseguir entrar na equipe.
 
-[Nível 1](https://www.google.com)
+[Nível 1](https://github.com/DevTeamSPA/desafio-dev/tree/main/Nivel%201)
 
-[Nível 2](https://www.google.com)
+[Nível 2](https://github.com/DevTeamSPA/desafio-dev/tree/main/Nivel%202)
 
-[Nível 3](https://www.google.com)
+[Nível 3](https://github.com/DevTeamSPA/desafio-dev/tree/main/Nivel%203)
 
 Obs.: independente da opção que escolher, se não conseguir completar todo o desafio entregue-o assim mesmo, pois iremos considerar o seu esforço e dedicação.
