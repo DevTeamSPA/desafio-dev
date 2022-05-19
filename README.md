@@ -1,5 +1,5 @@
 # Desafio Dev
-Olá dev, seja bem-vindo ao teste de conhecimento técnico da SPA Silva e Pelaquim Associado. Primeiramente parabéns por ter chegado aqui, e vamos ao nosso teste.
+Olá dev, seja bem-vindo ao teste de conhecimento técnico da SPA Silva e Pelaquim Associados. Primeiramente parabéns por ter chegado aqui, e vamos ao nosso teste.
 
 Essa vaga é referente ao cargo de Desenvolvedor Fronted Junior, aonde você estará trabalhando em equipe com os nossos demais desenvolvedores, então estará dando continuidade a um sistema que já esta em produção. E para sabermos como estão os seus conhecimentos técnicos você precisa cumprir um dos seguintes desafios abaixo.
 
