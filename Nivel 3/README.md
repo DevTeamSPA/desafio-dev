@@ -2,7 +2,7 @@
 
 Se você olhou os dois desafios anteriores e achou fácil, está de parabéns, mas me sinto na obrigação de passar o desafio mais complexo, e aqui você mostrar seu conhecimento além do Fronted.
 
-Aqui você terá o desafio de criar o Layout da REDE SOCIAL FAKE, desenvolvera um Backend para gerenciar os dados que o usuário irá mandar para se cadastrar nessa rede social, usará um banco não relacional (NoSQL) para gravar esses dados.
+Aqui você terá o desafio de criar o Layout da REDE SOCIAL FAKE, desenvolver um Backend para gerenciar os dados que o usuário irá mandar para se cadastrar nessa rede social, usará um banco não relacional (NoSQL) para gravar esses dados.
 
 Quando o usuário for efetuar o seu cadastro, ele poderá usar sua conta Google ou Github para simplificar a tarefa, então use as API necessárias para isso.
 
